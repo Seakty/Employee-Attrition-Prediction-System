@@ -37,6 +37,14 @@ The app expects saved model artifacts (`champion_model.pkl` and `model_columns.p
 
 ## Demo
 
+### 🌐 Live Deployment
+
+Try the app instantly online (no installation required):
+
+**[🚀 Open Live Demo](https://employee-attrition-prediction-system-bbpmbigdiufpffkzwv5gbk.streamlit.app/)**
+
+### Local Testing
+
 Run locally (see Quick Start). The UI provides:
 - A sidebar with employee attributes (income, incentives, level, stress, overtime, tenure, etc.)
 - A gauge showing predicted attrition probability
@@ -45,6 +53,13 @@ Run locally (see Quick Start). The UI provides:
 Screenshots and GIFs are welcome — feel free to add them under `docs/` in future PRs.
 
 ## Quick Start
+
+### Option 1: Use Live Demo (Fastest) ⚡
+
+No setup needed — visit the live deployment:
+**[🌐 Live Demo](https://employee-attrition-prediction-system-bbpmbigdiufpffkzwv5gbk.streamlit.app/)**
+
+### Option 2: Run Locally
 
 Prerequisites
 - Python 3.10+
