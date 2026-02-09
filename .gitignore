@@ -1,0 +1,25 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts and large data (keep out of repo unless necessary)
+*.pkl
+dataset/*.csv
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
