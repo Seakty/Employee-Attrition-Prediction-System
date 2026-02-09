@@ -11,7 +11,6 @@ env/
 .ipynb_checkpoints/
 
 # Model artifacts and large data (keep out of repo unless necessary)
-*.pkl
 dataset/*.csv
 
 # Streamlit cache
